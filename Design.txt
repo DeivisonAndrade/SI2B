@@ -1,0 +1,10 @@
+﻿DESIGN :
+
+
+     Por meio da API do Google (Geolocation) o Ash vai pegar a localização do cliente e fornece  dele e se dirigir ao local do cliente. 
+     Através API do Mercado Pago (MP), o cliente poderá pagar sua viagem de forma segura e rápida.
+    o cadastro do cliente será mediante a um formulário no aplicativo com seus dados pessoais e conta do MP. 
+     a IA será desenvolvida com a linguagem python. 
+     o Aplicativo será desenvolvido com Java.
+     o Site desenvolvido em Javascript
+     o Banco de dados será programado em SQL server.

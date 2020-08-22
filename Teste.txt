@@ -1,0 +1,8 @@
+﻿Teste: 
+
+
+1. No teste de controlamento dos veículos simultaneamente:  a Ash só conseguiu controla 80% frota e ficou a cargo da equipe de operação o controlamento remoto de 20% dos veículos até o Ash consegue 100%.
+2. Teste de Localização: IA forneceu sua localização e previsões estimadas com sucesso, apenas teve um erro de 2% nas operações em caso de complicações climáticas. 
+3. Teste de Pagamento: Todas as operações feita via MP foram seguras e confiáveis seguido os protocolos de segurança para esses tipo de transição e aprovada pelo cliente
+4. Teste de cancelamento: Ash conseguiu detectar 75% das mudanças climáticas  e notificar 99% dos clientes sobre o cancelamento. 
+5. Teste de cadastramento: o Banco de dados conseguiu suportar 97% do fluxo de cadastramento em alta intensidade e 100% em média e baixa intensidade de fluxo de dados.
